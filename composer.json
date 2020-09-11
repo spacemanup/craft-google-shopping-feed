@@ -1,5 +1,5 @@
 {
-    "name": "studioespresso/craft-google-shopping-feed",
+    "name": "kreuzundquer/craft-google-shopping-feed",
     "description": "A Google Shopping feed for Craft Commerce",
     "type": "craft-plugin",
     "version": "1.2.1",
